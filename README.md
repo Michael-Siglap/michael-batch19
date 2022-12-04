@@ -6,6 +6,6 @@ This repo sets down the following actions.
 2. Gives a greeting when someone pull the repo. - Done.
 3. Sends a Telegram message to me informing me of any commits. - Done.
 
-4. Azure CI/CD (attempting this now)
+4. Google Cloud CI/CD (attempting this now)
 
 This ends the assignment.
