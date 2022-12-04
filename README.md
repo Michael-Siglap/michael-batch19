@@ -6,4 +6,6 @@ This repo sets down the following actions.
 2. Gives a greeting when someone pull the repo.
 3. Sends a Telegram message to me informing me of any commits.
 
+4. AWS CI/CD (attempting this now)
+
 This ends the assignment.
