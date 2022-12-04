@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "docker": "^0.2.14",
     "express": "^4.18.2",
     "nodejs": "^0.0.0"
   }
