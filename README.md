@@ -6,6 +6,7 @@ This repo sets down the following actions.
 2. Gives a greeting when someone pull the repo. - Done.
 3. Sends a Telegram message to me informing me of any commits. - Done.
 4. Create a row in my google sheet for each new commit. - Done.
+5. Deploy Static content to pages. - Done.
 
 Attempted to push the file onto AWS and Google. :)
 
