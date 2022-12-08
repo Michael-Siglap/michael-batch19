@@ -9,4 +9,7 @@ This repo sets down the following actions.
 
 Attempted to push the file onto AWS and Google. :)
 
+Notes
+- There is an unexplained delay in the actions. Why?
+
 This ends the assignment.
