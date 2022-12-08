@@ -35,7 +35,7 @@ env:
   ECR_REPOSITORY: nusdevops           # set this to your Amazon ECR repository name
   ECS_SERVICE: sample-app-service                 # set this to your Amazon ECS service name
   ECS_CLUSTER: devooscluster                 # set this to your Amazon ECS cluster name
-  ECS_TASK_DEFINITION: arn:aws:ecs:us-east-2:765124895888:task/devooscluster/5b38b67b13e848439249c5a7744fcd3d # set this to the path to your Amazon ECS task definition
+  ECS_TASK_DEFINITION: task/devooscluster/5b38b67b13e848439249c5a7744fcd3d # set this to the path to your Amazon ECS task definition
                                                # file, e.g. .aws/task-definition.json
   CONTAINER_NAME: sample-app           # set this to the name of the container in the
                                                # containerDefinitions section of your task definition
