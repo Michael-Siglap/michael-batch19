@@ -7,4 +7,6 @@ This repo sets down the following actions.
 3. Sends a Telegram message to me informing me of any commits. - Done.
 4. Create a row in my google sheet for each new commit. - Done.
 
+Attempted to push the file onto AWS and Google. :)
+
 This ends the assignment.
