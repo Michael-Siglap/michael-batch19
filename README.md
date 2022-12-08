@@ -10,6 +10,6 @@ This repo sets down the following actions.
 6. Push to AWS. - WIP.
 
 Notes
-- There is an unexplained delay in the actions. Why?
+- There is an unexplained delay in the Telegram message actions. Why?
 
 This ends the assignment.
