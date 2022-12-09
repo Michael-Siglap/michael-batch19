@@ -17,6 +17,4 @@ Not tested
 Notes
 - There is an unexplained delay in items relating to IFTTT actions. Why?
 
-This ends the assignment.
-
 The exploring continues in CI/CD!!!
