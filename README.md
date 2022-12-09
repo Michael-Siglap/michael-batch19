@@ -28,11 +28,6 @@ This repo sets down the following automated actions.
 
 <br></br>
 
-
-
-
-<br></br>
-
 Notes
 - There is an unexplained delay in items relating to IFTTT actions. Why?
 
