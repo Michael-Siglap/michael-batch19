@@ -28,9 +28,8 @@ This repo sets down the following automated actions.
 
 <br></br>
 
-Not tested
-1. Sends a greeting to whoever creates their first issue. - Done.
-2. Gives a greeting when someone pull the repo. - Done.
+6. Gives a greeting when someone pull the repo. - Done.
+
 
 <br></br>
 
