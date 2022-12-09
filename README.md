@@ -3,16 +3,19 @@
 
 This repo sets down the following automated actions.
 
-1. Send a Telegram message to me informing me of any commits (IFTTT). - Done.
+1. Send a Telegram message to me informing me of any commits (IFTTT). - Done. <p>
    Set up through IFTTT GUI.
+   <br></br>
    
-3. Create a row in my google sheet for each new commit (IFTTT). - Done.
+3. Create a row in my google sheet for each new commit (IFTTT). - Done. <p>
    Set up through IFTTT GUI.
+   <br></br>
    
-4. Deploy Static content to pages. - Done.
+4. Deploy Static content to pages. - Done. <p>
    Setup via GitHug automated actions.
-
-5. Push to AWS. - WIP.
+   <br></br>
+   
+5. Push to AWS. - WIP. <p>
    Manual set up.
    
    a) Create an ECR repository to store your images.
