@@ -1,4 +1,4 @@
-# Project assigment for batch 19
+# Project assigment for batch 19 - The best one yet!
 ## Project #2 on CI/CD
 
 This repo sets down the following automated actions.
