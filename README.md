@@ -16,7 +16,7 @@ This repo sets down the following automated actions.
    <br></br>
    
 5. Push to AWS. - WIP. <p>
-   Manual set up.
+   Set up through aws.yml file.
    
    a) Create an ECR repository to store your images.
 
