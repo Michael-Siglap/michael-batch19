@@ -16,3 +16,5 @@ Notes
 - There is an unexplained delay in the Telegram message actions. Why?
 
 This ends the assignment.
+
+The exploring continues in CI/CD!
