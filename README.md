@@ -11,7 +11,7 @@ This repo sets down the following automated actions.
    Set up through IFTTT GUI.
    <br></br>
    
-4. Deploy Static content to pages. - Done. <p>
+4. Gives a greeting when someone pull the repo. - Done.
    Setup via GitHug automated actions.
    <br></br>
    
@@ -28,7 +28,7 @@ This repo sets down the following automated actions.
 
 <br></br>
 
-6. Gives a greeting when someone pull the repo. - Done.
+
 
 
 <br></br>
