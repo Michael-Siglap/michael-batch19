@@ -15,13 +15,13 @@ This repo sets down the following automated actions.
 5. Push to AWS. - WIP.
    Manual set up.
    
-   a) Create an ECR repository to store your images
+   a) Create an ECR repository to store your images.
 
    b) Create an ECS task definition, an ECS cluster, and an ECS service.
    
    c) Store your ECS task definition as a JSON file in your repository.
    
-   d) Store an IAM user access key in GitHub Actions secrets named `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`.
+   d) Store an IAM user access key in GitHub Actions secrets.
 
 <br></br>
 
