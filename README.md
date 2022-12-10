@@ -1,4 +1,4 @@
-# Automations sammples for NUS course!
+# Automation samples for NUS course!
 ## Project #2 on CI/CD
 
 This repo sets down the following automated actions.
@@ -29,6 +29,6 @@ This repo sets down the following automated actions.
 <br></br>
 
 Notes
-- There is an unexplained delay in items relating to IFTTT actions. Why?
+- There is an unexplained delay in items relating to IFTTT actions. Why? Because it is a FREE service!
 
 The exploring continues in CI/CD!!!
