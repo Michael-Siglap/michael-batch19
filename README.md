@@ -31,4 +31,6 @@ This repo sets down the following automated actions.
 Notes
 - There is an unexplained delay in items relating to IFTTT actions. Why? Because it is a FREE service!
 
+Feel free to suggest any edits or corrections.
+
 The exploring continues in CI/CD!!!
